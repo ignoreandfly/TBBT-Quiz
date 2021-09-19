@@ -1,2 +1,2 @@
 # TBBT-Quiz
-You think you're a TBBT nerd? Let's find out! 
+A quiz made using nodeJS to test your The Big Bang Theory knowledge.
